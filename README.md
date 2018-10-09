@@ -4,7 +4,7 @@ Several util modules to optimise your project
 
 > E-mail: 739709491@qq.com
 
-> version: 0.0.1
+> version: 0.0.2
 
 > date: 2018/10/09
 

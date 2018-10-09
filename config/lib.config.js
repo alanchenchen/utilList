@@ -5,7 +5,7 @@
 module.exports = {
     libraryName: 'util-list', // npm包名，首字母不允许大写，支持驼峰和短杆写法
     bundleName: 'utilList', // 打包后文件名，也是UMD script直接引入挂在windows对象的key名
-    version: '0.0.1', // 版本号
+    version: '0.0.2', // 版本号
     description: 'Several util modules to optimise your project', // 包描述
     keywords: ['dateFormat', 'vue', 'arrayExtend', 'eventBus'], // 关键词
     author: 'Alan Chen', // 作者

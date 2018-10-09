@@ -1,6 +1,6 @@
 {
   "name": "util-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Several util modules to optimise your project",
   "main": "dist/utilList.js",
   "scripts": {
@@ -18,9 +18,9 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/alanchenchen/library-template"
+    "url": "https://github.com/alanchenchen/utilList"
   },
-  "homepage": "https://github.com/alanchenchen/library-template",
+  "homepage": "https://github.com/alanchenchen/utilList",
   "dependencies": {
     "babel-runtime": "^6.26.0"
   },
