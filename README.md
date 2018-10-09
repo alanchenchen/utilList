@@ -21,7 +21,7 @@ Several util modules to optimise your project
 * [DateFormat](docs/DateFormat.md)
 * [EventBus](docs/EventBus.md)
 * [ArrayDel](docs/ArrayDel.md)
-* [Equal](doc/Equal.md)
+* [Equal](docs/Equal.md)
 
 ## Usage
 * `yarn add util-list` or `npm install util-list --save` 安装npm包

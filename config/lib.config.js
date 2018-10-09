@@ -11,6 +11,6 @@ module.exports = {
     author: 'Alan Chen', // 作者
     repository: { // 仓库地址和首页地址
         type: 'git',
-        url: 'https://github.com/alanchenchen/library-template'
+        url: 'https://github.com/alanchenchen/utilList'
     }
 }
