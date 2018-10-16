@@ -58,7 +58,7 @@
             }
         },
         created() {
-            this.$_BusDispatch('a', 'hello', 'hello', 'world') // 触发a组件中的hello事件，传入多个参数。打印hello world
+            this.$_BusDispatch('a', 'hello', 'hello', 'world') // 触发a组件中的hello事件，传入多个参数。打印 ['hello', 'world']
         }
     }
 ```
