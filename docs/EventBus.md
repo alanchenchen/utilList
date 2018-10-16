@@ -45,7 +45,7 @@
             }
         },
         created() {
-            this.$_BusOnce('hello', msg => { // 订阅hello事件
+            this.$_BusOnce('hello', (...msg) => { // 订阅hello事件, 接收多个返回参数，可以通过剩余操作符转换成数组
                 console.log(msg)
             })
         }
@@ -58,7 +58,7 @@
             }
         },
         created() {
-            this.$_BusOn('a', 'hello', 'hello world') // 触发a组件中的hello事件，打印hello world
+            this.$_BusDispatch('a', 'hello', 'hello', 'world') // 触发a组件中的hello事件，传入多个参数。打印hello world
         }
     }
 ```
