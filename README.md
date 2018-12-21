@@ -1,4 +1,9 @@
 # utilList
+
+![](https://img.shields.io/npm/v/util-list.svg)
+![](https://img.shields.io/npm/dt/util-list.svg)
+![](https://img.shields.io/github/license/alanchenchen/utilList.svg)
+
 Several util modules to optimise your project
 > Author：Alan Chen
 
