@@ -1,6 +1,12 @@
 /**
  * @description 插件的入口模块。webpack的entry
  */
+/**!
+ * @author Alan Chen
+ * @Date 2018/12/25
+ * @version 0.0.4
+ * @license MIT
+ */
 import EventBus from './EventBus/index'
 import { Equal, ArrayDel } from './ArrayExtend/index'
 import DateFormat from './DateFormat/index'

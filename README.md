@@ -9,9 +9,9 @@ Several util modules to optimise your project
 
 > E-mail: 739709491@qq.com
 
-> version: 0.0.2
+> version: 0.0.4
 
-> date: 2018/10/09
+> date: 2018/12/25
 
 
 ## Feature

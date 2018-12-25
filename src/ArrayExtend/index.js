@@ -1,7 +1,7 @@
 /**
  * @module ArrayExtend
  * @author Alan Chen
- * @version 0.0.1
+ * @version 0.0.2
  * @description 二次封装Array的splice方法，以及判断变量是否严格相等的模块
  * 
  * @method Equal
@@ -46,7 +46,7 @@ export const Equal = (left, right) => {
 export const ArrayDel = function (source, target = []) {
     target.forEach(a => {
         const index = source.findIndex(b => {
-            return equal(b, a)
+            return Equal(b, a)
         })
         
         if (index >= 0) {

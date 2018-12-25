@@ -1,6 +1,6 @@
 {
   "name": "util-list",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Several util modules to optimise your project",
   "main": "dist/utilList.js",
   "scripts": {
